@@ -1,8 +1,8 @@
-# 📊 Farduus Ibraahim's Data Analytics Portfolio
+# Farduus Ibraahim's Data Analytics Portfolio
 
 Welcome! I'm a data analytics student at TCU passionate about turning data into meaningful insights. Here's a collection of my projects using Python, SQL, Excel, and Tableau.
 
-## 🌟 Featured Projects
+## Featured Projects
 
 ### 1. Skincare & Social Media Analytics  
 **Tools:** Python, Pandas, Seaborn  
@@ -25,11 +25,11 @@ Mapped grocery store locations in Fort Worth to assess food accessibility.
 
 ---
 
-## 🧠 About Me  
-- 🎓 Junior at TCU, majoring in Digital Culture and Data Analytics  
-- ⚡ Minor in Energy Business  
-- 💼 Interested in analytics roles in tech, retail, or energy  
-- 🧪 Learning: SQL, Tableau, Advanced Python
+## About Me  
+- Senior at TCU, majoring in Digital Culture and Data Analytics  
+- Minor in Energy Business  
+- Interested in analytics roles in tech and energy  
+- Learning: SQL, Tableau, Advanced Python
 
-📫 **Let’s Connect!**  
-[LinkedIn](your-link) | [Email](mailto:your@email.com)
+ **Let’s Connect!**  
+[LinkedIn](https://www.linkedin.com/in/farduusibraahim) | [Email](ferdousyousef@gmail.com)
